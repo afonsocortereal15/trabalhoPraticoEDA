@@ -1,0 +1,7 @@
+/.vscode
+/tests
+teste.py
+teste2.py
+teste3.py
+main
+*.o
